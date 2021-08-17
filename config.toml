@@ -14,7 +14,7 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "An Introduction"
-  brand = "Mperry37.tech"
+  brand = "mperry.io"
   
   # CSS name for highlight.js
   highlightjs = "androidstudio"
