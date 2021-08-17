@@ -6,6 +6,6 @@ draft: false
 
 Hey this site is currently being built. Check back soon and it will be done!
 
-If you need to contact me my socails are on the left bar :point_left:  
+If you need to contact me my socials are on the left  
 
 Thanks!
